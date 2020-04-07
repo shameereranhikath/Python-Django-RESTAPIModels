@@ -10,7 +10,7 @@ Link for the admin console is
 
 http://127.0.0.1:8000/admin
 
-Username is admin
+Username is admin and 
 Password is admin
 
 Link for the Web Api is 
